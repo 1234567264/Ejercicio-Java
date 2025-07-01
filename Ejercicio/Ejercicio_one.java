@@ -78,7 +78,7 @@ public class Ejercicio_one {
                         
 
                }
-               else if(opcion_0.equals("1")){
+               else if(opcion_0.equals("3")){
                 System.out.println("¡Hasta luego! 😊");
                 break;
 
